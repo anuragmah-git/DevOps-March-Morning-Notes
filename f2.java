@@ -1,4 +1,4 @@
-welcome
+welcome to git tutorial
 
 to 
 
